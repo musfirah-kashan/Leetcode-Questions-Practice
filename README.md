@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1492-the-kth-factor-of-n) |
+| [2578-split-with-minimum-sum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2578-split-with-minimum-sum) |
 ## Number Theory
 |  |
 | ------- |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0242-valid-anagram) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2578-split-with-minimum-sum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2578-split-with-minimum-sum) |
 ## Array
 |  |
 | ------- |
@@ -48,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
+## Greedy
+|  |
+| ------- |
+| [2578-split-with-minimum-sum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2578-split-with-minimum-sum) |
 <!---LeetCode Topics End-->
