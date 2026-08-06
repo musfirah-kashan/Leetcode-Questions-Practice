@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1492-the-kth-factor-of-n) |
+| [2169-count-operations-to-obtain-zero](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2169-count-operations-to-obtain-zero) |
 | [2578-split-with-minimum-sum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2578-split-with-minimum-sum) |
 ## Number Theory
 |  |
@@ -54,4 +55,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2578-split-with-minimum-sum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2578-split-with-minimum-sum) |
+## Simulation
+|  |
+| ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2169-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
