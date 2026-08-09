@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0389-find-the-difference) |
 | [1108-defanging-an-ip-address](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1108-defanging-an-ip-address) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3248-snake-in-matrix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3248-snake-in-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3248-snake-in-matrix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3248-snake-in-matrix) |
 ## Matrix
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2169-count-operations-to-obtain-zero) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
+| [3248-snake-in-matrix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3248-snake-in-matrix) |
 ## Counting Sort
 |  |
 | ------- |
