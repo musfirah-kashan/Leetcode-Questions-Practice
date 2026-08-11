@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0125-valid-palindrome) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 ## String
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0389-find-the-difference) |
 | [1108-defanging-an-ip-address](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1108-defanging-an-ip-address) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3248-snake-in-matrix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3248-snake-in-matrix) |
 ## Hash Table
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2108-find-first-palindromic-string-in-the-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3248-snake-in-matrix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3248-snake-in-matrix) |
