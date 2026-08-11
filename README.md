@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2169-count-operations-to-obtain-zero](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2169-count-operations-to-obtain-zero) |
 | [2525-categorize-box-according-to-criteria](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2525-categorize-box-according-to-criteria) |
 | [2578-split-with-minimum-sum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2578-split-with-minimum-sum) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Number Theory
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3248-snake-in-matrix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3248-snake-in-matrix) |
 ## Matrix
 |  |
