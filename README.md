@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0066-plus-one) |
 | [1486-xor-operation-in-an-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1492-the-kth-factor-of-n) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0066-plus-one) |
 | [0414-third-maximum-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0414-third-maximum-number) |
 | [1572-matrix-diagonal-sum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1833-maximum-ice-cream-bars) |
