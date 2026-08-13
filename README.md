@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0066-plus-one) |
+| [0342-power-of-four](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0342-power-of-four) |
 | [1447-simplified-fractions](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1447-simplified-fractions) |
 | [1486-xor-operation-in-an-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1492-the-kth-factor-of-n) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1486-xor-operation-in-an-array) |
 ## Two Pointers
@@ -106,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1447-simplified-fractions](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1447-simplified-fractions) |
+## Recursion
+|  |
+| ------- |
+| [0342-power-of-four](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
