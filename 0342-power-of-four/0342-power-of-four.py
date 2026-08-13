@@ -1,8 +1,9 @@
 class Solution:
-    def simplifiedFractions(self, n: int) -> List[str]:
-        answer=[]
-        for denominator in range(2,n+1):
-            for numerator in range(1,denominator):
-                if math.gcd(numerator,denominator)==1:
-                    answer.append(f"{numerator}/{denominator}")
-        return answer            
+    def isPowerOfFour(self, n: int) -> bool:
+        if n<=0:
+            return False
+        power=1
+        while power<n:
+            power*=4
+        return power==n        
+        
