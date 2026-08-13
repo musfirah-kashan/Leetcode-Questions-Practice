@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0066-plus-one) |
+| [1447-simplified-fractions](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1447-simplified-fractions) |
 | [1486-xor-operation-in-an-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1492-the-kth-factor-of-n) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1447-simplified-fractions](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1447-simplified-fractions) |
 | [1492-the-kth-factor-of-n](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1492-the-kth-factor-of-n) |
 ## Bit Manipulation
 |  |
@@ -34,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0389-find-the-difference) |
 | [1108-defanging-an-ip-address](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1108-defanging-an-ip-address) |
+| [1447-simplified-fractions](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1447-simplified-fractions) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -95,4 +98,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1833-maximum-ice-cream-bars) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1447-simplified-fractions) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1447-simplified-fractions](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1447-simplified-fractions) |
 <!---LeetCode Topics End-->
