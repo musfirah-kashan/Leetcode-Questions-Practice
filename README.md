@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3248-snake-in-matrix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3248-snake-in-matrix) |
 ## Hash Table
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2185-counting-words-with-a-given-prefix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3248-snake-in-matrix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3248-snake-in-matrix) |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0342-power-of-four) |
+## String Matching
+|  |
+| ------- |
+| [2185-counting-words-with-a-given-prefix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
