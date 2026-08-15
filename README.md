@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0389-find-the-difference) |
 | [1486-xor-operation-in-an-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1486-xor-operation-in-an-array) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 ## String
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0066-plus-one) |
+| [0287-find-the-duplicate-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0414-third-maximum-number) |
 | [1572-matrix-diagonal-sum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1833-maximum-ice-cream-bars) |
@@ -85,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
 |  |
@@ -119,4 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2185-counting-words-with-a-given-prefix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
