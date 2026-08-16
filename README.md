@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0509-fibonacci-number) |
 | [1447-simplified-fractions](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1447-simplified-fractions) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0389-find-the-difference) |
@@ -53,12 +55,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0389-find-the-difference) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0414-third-maximum-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1833-maximum-ice-cream-bars) |
@@ -68,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0066-plus-one) |
+| [0268-missing-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0414-third-maximum-number) |
 | [1572-matrix-diagonal-sum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1572-matrix-diagonal-sum) |
@@ -89,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Greedy
