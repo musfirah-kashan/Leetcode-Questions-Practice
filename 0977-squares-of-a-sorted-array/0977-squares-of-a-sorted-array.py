@@ -5,5 +5,4 @@ class Solution:
             res=i**2
             l1.append(res)
             l1.sort()
-        return  l1    
-        
+        return l1 
