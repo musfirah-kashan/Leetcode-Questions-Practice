@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2578-split-with-minimum-sum) |
 | [2652-sum-multiples](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2652-sum-multiples) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Number Theory
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2578-split-with-minimum-sum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2578-split-with-minimum-sum) |
 | [3731-find-missing-elements](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3731-find-missing-elements) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Array
 |  |
 | ------- |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3232-find-if-digit-game-can-be-won](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3248-snake-in-matrix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3248-snake-in-matrix) |
 | [3731-find-missing-elements](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3731-find-missing-elements) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Matrix
 |  |
 | ------- |
@@ -122,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2578-split-with-minimum-sum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2578-split-with-minimum-sum) |
+| [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Simulation
 |  |
 | ------- |
