@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1447-simplified-fractions](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1447-simplified-fractions) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
