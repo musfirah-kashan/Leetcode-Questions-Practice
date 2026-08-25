@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0509-fibonacci-number) |
@@ -195,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1051-height-checker) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
