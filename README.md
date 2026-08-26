@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0206-reverse-linked-list) |
 | [0326-power-of-three](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0342-power-of-four) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0206-reverse-linked-list) |
