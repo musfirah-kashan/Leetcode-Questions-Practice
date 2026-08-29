@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1051-height-checker) |
 | [1331-rank-transform-of-an-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1051-height-checker) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1331-rank-transform-of-an-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1331-rank-transform-of-an-array) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1572-matrix-diagonal-sum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 | [1672-richest-customer-wealth](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1672-richest-customer-wealth) |
