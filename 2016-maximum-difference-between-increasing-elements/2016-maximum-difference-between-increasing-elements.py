@@ -8,9 +8,4 @@ class Solution:
                     diff=nums[j]-nums[i]
                     if diff>max_diff:
                         max_diff=diff
-        return max_diff            
-
-
-
-            
-        
+        return max_diff           
