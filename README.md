@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1492-the-kth-factor-of-n) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2169-count-operations-to-obtain-zero](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2169-count-operations-to-obtain-zero) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2525-categorize-box-according-to-criteria](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2525-categorize-box-according-to-criteria) |
 | [2578-split-with-minimum-sum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2578-split-with-minimum-sum) |
 | [2652-sum-multiples](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2652-sum-multiples) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2255-count-prefixes-of-a-given-string) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2278-percentage-of-letter-in-string](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2278-percentage-of-letter-in-string) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3248-snake-in-matrix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3248-snake-in-matrix) |
@@ -231,4 +233,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2269-find-the-k-beauty-of-a-number) |
 <!---LeetCode Topics End-->
