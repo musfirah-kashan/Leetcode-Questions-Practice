@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0485-max-consecutive-ones) |
+| [0682-baseball-game](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0766-toeplitz-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2169-count-operations-to-obtain-zero](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2169-count-operations-to-obtain-zero) |
@@ -234,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2269-find-the-k-beauty-of-a-number) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
