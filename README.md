@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2643-row-with-maximum-ones](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2643-row-with-maximum-ones) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3248-snake-in-matrix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3248-snake-in-matrix) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1572-matrix-diagonal-sum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1672-richest-customer-wealth) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
+| [2643-row-with-maximum-ones](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2643-row-with-maximum-ones) |
 ## Binary Search
 |  |
 | ------- |
