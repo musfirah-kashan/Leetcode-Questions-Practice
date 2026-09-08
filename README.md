@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1108-defanging-an-ip-address) |
 | [1447-simplified-fractions](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1447-simplified-fractions) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2124-check-if-all-as-appears-before-all-bs) |
