@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1447-simplified-fractions](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1447-simplified-fractions) |
 | [1486-xor-operation-in-an-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1486-xor-operation-in-an-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1051-height-checker) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0704-binary-search) |
 | [0766-toeplitz-matrix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0766-toeplitz-matrix) |
