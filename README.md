@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0142-linked-list-cycle-ii) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0066-plus-one) |
