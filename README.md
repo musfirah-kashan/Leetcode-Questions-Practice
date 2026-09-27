@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1446-consecutive-characters](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1446-consecutive-characters) |
 | [1447-simplified-fractions](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1447-simplified-fractions) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1859-sorting-the-sentence](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1859-sorting-the-sentence) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1572-matrix-diagonal-sum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1672-richest-customer-wealth) |
 | [1833-maximum-ice-cream-bars](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1929-concatenation-of-array) |
