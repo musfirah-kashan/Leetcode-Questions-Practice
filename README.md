@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0046-permutations) |
 | [0055-jump-game](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0066-plus-one) |
+| [0074-search-a-2d-matrix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0766-toeplitz-matrix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0766-toeplitz-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1672-richest-customer-wealth) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0704-binary-search) |
