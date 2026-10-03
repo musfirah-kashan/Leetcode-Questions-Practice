@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0390-elimination-game](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0390-elimination-game) |
 | [0509-fibonacci-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
+| [1025-divisor-game](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1025-divisor-game) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1447-simplified-fractions](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1447-simplified-fractions) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0509-fibonacci-number) |
+| [1025-divisor-game](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1025-divisor-game) |
 | [1578-minimum-time-to-make-rope-colorful](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1578-minimum-time-to-make-rope-colorful) |
 ## Memoization
 |  |
@@ -331,4 +333,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0706-design-hashmap) |
+## Brainteaser
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1025-divisor-game) |
+## Game Theory
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1025-divisor-game) |
+## Impartial Game
+|  |
+| ------- |
+| [1025-divisor-game](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1025-divisor-game) |
 <!---LeetCode Topics End-->
