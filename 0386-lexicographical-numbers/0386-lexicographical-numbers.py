@@ -7,4 +7,3 @@ class Solution:
         for i in range(len(nums)):
             nums[i]=int(nums[i])
         return nums
-        
