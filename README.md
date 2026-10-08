@@ -348,4 +348,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1025-divisor-game](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1025-divisor-game) |
+## Depth-First Search
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0386-lexicographical-numbers) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
