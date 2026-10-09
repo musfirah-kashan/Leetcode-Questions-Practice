@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2278-percentage-of-letter-in-string](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2278-percentage-of-letter-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2351-first-letter-to-appear-twice) |
+| [3136-valid-word](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3136-valid-word) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3248-snake-in-matrix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3248-snake-in-matrix) |
 ## Hash Table
