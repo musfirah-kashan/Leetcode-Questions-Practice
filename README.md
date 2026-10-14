@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0342-power-of-four) |
