@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2578-split-with-minimum-sum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2578-split-with-minimum-sum) |
 | [2652-sum-multiples](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2652-sum-multiples) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Number Theory
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2351-first-letter-to-appear-twice](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2351-first-letter-to-appear-twice) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3731-find-missing-elements](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2733-neither-minimum-nor-maximum) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3248-snake-in-matrix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3248-snake-in-matrix) |
+| [3289-the-two-sneaky-numbers-of-digitville](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3379-transformed-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3379-transformed-array) |
 | [3731-find-missing-elements](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
