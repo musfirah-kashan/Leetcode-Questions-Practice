@@ -1,9 +1,10 @@
 class Solution:
     def isCircularSentence(self, sentence: str) -> bool:
-        words=sentence.split()
-        for i in range(len(words)-1):
-            if words[i][-1]!=words[i+1][0]:
+        l1=sentence.split()
+        for i in range(len(l1)):
+            current_word=l1[i]
+            next_word=l1[(i+1)%len(l1)]
+            if current_word[-1]!=next_word[0]:
                 return False
-        if words[-1][-1]!=words[0][0]:
-            return False    
-        return True    
+        return True
+        
