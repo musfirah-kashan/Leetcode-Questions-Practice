@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0389-find-the-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0706-design-hashmap) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1331-rank-transform-of-an-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0704-binary-search) |
@@ -369,4 +371,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0386-lexicographical-numbers) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
