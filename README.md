@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2278-percentage-of-letter-in-string](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2278-percentage-of-letter-in-string) |
 | [2351-first-letter-to-appear-twice](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2351-first-letter-to-appear-twice) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2490-circular-sentence](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2490-circular-sentence) |
 | [3136-valid-word](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3136-valid-word) |
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
+| [2446-determine-if-two-events-have-conflict](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2446-determine-if-two-events-have-conflict) |
 | [2643-row-with-maximum-ones](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2643-row-with-maximum-ones) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2733-neither-minimum-nor-maximum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2733-neither-minimum-nor-maximum) |
