@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1332-remove-palindromic-subsequences](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1332-remove-palindromic-subsequences) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 ## String
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2643-row-with-maximum-ones](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2643-row-with-maximum-ones) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2733-neither-minimum-nor-maximum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2733-neither-minimum-nor-maximum) |
+| [2903-find-indices-with-index-and-value-difference-i](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2903-find-indices-with-index-and-value-difference-i) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3248-snake-in-matrix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3248-snake-in-matrix) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
