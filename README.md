@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0414-third-maximum-number) |
+| [0506-relative-ranks](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0922-sort-array-by-parity-ii](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0977-squares-of-a-sorted-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0506-relative-ranks) |
 | [0560-subarray-sum-equals-k](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0682-baseball-game) |
@@ -379,4 +381,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0560-subarray-sum-equals-k) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
