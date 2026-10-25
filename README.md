@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1859-sorting-the-sentence](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1859-sorting-the-sentence) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2578-split-with-minimum-sum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2578-split-with-minimum-sum) |
 | [2733-neither-minimum-nor-maximum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2733-neither-minimum-nor-maximum) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0506-relative-ranks) |
+| [2231-largest-number-after-digit-swaps-by-parity](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2231-largest-number-after-digit-swaps-by-parity) |
 ## Divide and Conquer
 |  |
 | ------- |
