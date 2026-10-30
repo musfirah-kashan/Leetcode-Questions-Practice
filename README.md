@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3379-transformed-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3379-transformed-array) |
 | [3637-trionic-array-i](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3637-trionic-array-i) |
+| [3701-compute-alternating-sum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Matrix
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3168-minimum-number-of-chairs-in-a-waiting-room](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3168-minimum-number-of-chairs-in-a-waiting-room) |
 | [3248-snake-in-matrix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3248-snake-in-matrix) |
 | [3379-transformed-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3379-transformed-array) |
+| [3701-compute-alternating-sum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3701-compute-alternating-sum) |
 ## Counting Sort
 |  |
 | ------- |
