@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0520-detect-capital) |
+| [0551-student-attendance-record-i](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0551-student-attendance-record-i) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1108-defanging-an-ip-address) |
