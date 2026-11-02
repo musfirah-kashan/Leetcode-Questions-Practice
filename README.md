@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0033-search-in-rotated-sorted-array) |
 | [0046-permutations](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0046-permutations) |
+| [0053-maximum-subarray](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0074-search-a-2d-matrix) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0509-fibonacci-number) |
@@ -401,5 +403,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
