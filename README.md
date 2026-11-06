@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0551-student-attendance-record-i) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0884-uncommon-words-from-two-sentences) |
+| [0944-delete-columns-to-make-sorted](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1108-defanging-an-ip-address](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1108-defanging-an-ip-address) |
 | [1332-remove-palindromic-subsequences](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1332-remove-palindromic-subsequences) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0706-design-hashmap) |
 | [0766-toeplitz-matrix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0766-toeplitz-matrix) |
 | [0922-sort-array-by-parity-ii](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0922-sort-array-by-parity-ii) |
+| [0944-delete-columns-to-make-sorted](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1051-height-checker) |
 | [1217-minimum-cost-to-move-chips-to-the-same-position](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1217-minimum-cost-to-move-chips-to-the-same-position) |
@@ -408,4 +410,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0191-number-of-1-bits) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
