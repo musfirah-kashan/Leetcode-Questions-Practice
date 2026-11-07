@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0191-number-of-1-bits) |
+| [0260-single-number-iii](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0342-power-of-four) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0137-single-number-ii) |
 | [0179-largest-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0189-rotate-array) |
+| [0260-single-number-iii](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0414-third-maximum-number) |
