@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2525-categorize-box-according-to-criteria](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2525-categorize-box-according-to-criteria) |
 | [2578-split-with-minimum-sum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2578-split-with-minimum-sum) |
 | [2652-sum-multiples](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2652-sum-multiples) |
+| [3024-type-of-triangle](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2475-number-of-unequal-triplets-in-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2578-split-with-minimum-sum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2578-split-with-minimum-sum) |
 | [2733-neither-minimum-nor-maximum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2733-neither-minimum-nor-maximum) |
+| [3024-type-of-triangle](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3024-type-of-triangle) |
 | [3731-find-missing-elements](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3731-find-missing-elements) |
 | [3732-maximum-product-of-three-elements-after-one-replacement](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3732-maximum-product-of-three-elements-after-one-replacement) |
 ## Array
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2733-neither-minimum-nor-maximum](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2733-neither-minimum-nor-maximum) |
 | [2903-find-indices-with-index-and-value-difference-i](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2903-find-indices-with-index-and-value-difference-i) |
+| [3024-type-of-triangle](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3024-type-of-triangle) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3248-snake-in-matrix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3248-snake-in-matrix) |
 | [3289-the-two-sneaky-numbers-of-digitville](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3289-the-two-sneaky-numbers-of-digitville) |
@@ -424,4 +427,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0944-delete-columns-to-make-sorted](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0944-delete-columns-to-make-sorted) |
+## Polygons
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->
