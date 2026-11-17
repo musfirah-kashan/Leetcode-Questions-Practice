@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0389-find-the-difference) |
 | [0520-detect-capital](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0520-detect-capital) |
 | [0551-student-attendance-record-i](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0551-student-attendance-record-i) |
+| [0796-rotate-string](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0796-rotate-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0944-delete-columns-to-make-sorted](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0796-rotate-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Pigeonhole Principle
 |  |
