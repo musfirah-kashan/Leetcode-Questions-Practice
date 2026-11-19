@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0560-subarray-sum-equals-k) |
+| [0705-design-hashset](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0706-design-hashmap) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1331-rank-transform-of-an-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1331-rank-transform-of-an-array) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0704-binary-search) |
+| [0705-design-hashset](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0706-design-hashmap) |
 | [0766-toeplitz-matrix](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0766-toeplitz-matrix) |
 | [0922-sort-array-by-parity-ii](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0922-sort-array-by-parity-ii) |
@@ -350,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0206-reverse-linked-list) |
+| [0705-design-hashset](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0876-middle-of-the-linked-list) |
 ## Sliding Window
@@ -386,10 +389,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0706-design-hashmap) |
 ## Brainteaser
 |  |
