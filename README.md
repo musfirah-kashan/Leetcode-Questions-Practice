@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0142-linked-list-cycle-ii) |
 | [0189-rotate-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0876-middle-of-the-linked-list](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0876-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0922-sort-array-by-parity-ii) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/0485-max-consecutive-ones) |
