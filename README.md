@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-xor-operation-in-an-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1486-xor-operation-in-an-array) |
 | [1492-the-kth-factor-of-n](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1492-the-kth-factor-of-n) |
 | [1512-number-of-good-pairs](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1512-number-of-good-pairs) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2169-count-operations-to-obtain-zero](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2169-count-operations-to-obtain-zero) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2269-find-the-k-beauty-of-a-number) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1640-check-array-formation-through-concatenation](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1640-check-array-formation-through-concatenation) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1672-richest-customer-wealth) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1833-maximum-ice-cream-bars) |
 | [1929-concatenation-of-array](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/1929-concatenation-of-array) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/musfirah-kashan/Leetcode-Questions-Practice/tree/master/2016-maximum-difference-between-increasing-elements) |
